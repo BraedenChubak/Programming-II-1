@@ -16,9 +16,10 @@ print("Hello, world!")
 = (x = y)
 += (x += y is x = x + y)
 -= (x -= y is x = x - y)
-*=
-/=
-//=
+*= (x *= y is x = x * y)
+/= (x /= y is x = x / y)
+//= (x //= y is x = x // y)
+**= (x **= y is x = x ** y)
 """
 
 """ Data Types
@@ -26,5 +27,5 @@ int - Integer (whole numbers)
 float - Floating-point (decimals)
 str - String (text in double-quotes)
 bool - Boolean (True and False only)
-chr - Character (one character of text)
+chr - Character (one keyboard character)
 """
