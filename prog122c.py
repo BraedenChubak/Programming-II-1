@@ -1,4 +1,5 @@
-num = 2
-while num <= 10:
-  print(str(num) + " " + str(num + 1) + " " + str(num * 2) + " " + str(num**2))
-  num += 2
+for lcv in range(2, 11, 2):
+  col2 = lcv + 1
+  col3 = lcv * 2
+  col4 = lcv ** 2
+  print(f"{lcv}\t{col2}\t{col3}\t{col4}")
