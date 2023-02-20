@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/home/runner/Programming-II-1/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
