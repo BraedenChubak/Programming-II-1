@@ -40,7 +40,7 @@ def main():
             large = favW
           if len(favW) < len(sm):
             sm = favW
-
+      
       print("Average Sudent GPA:", round(tot/cnt, 2))
       print("Total number of students taught:", str(totstus))
       print("Smallest favorite admin word:", sm)
