@@ -1,0 +1,6 @@
+C:\Users\chubak.b\Source\Repos\CSharp\YourNameConsole\bin\Debug\YourNameConsole.exe.config
+C:\Users\chubak.b\Source\Repos\CSharp\YourNameConsole\obj\Debug\YourNameConsole.csprojResolveAssemblyReference.cache
+C:\Users\chubak.b\Source\Repos\CSharp\YourNameConsole\bin\Debug\YourNameConsole.exe
+C:\Users\chubak.b\Source\Repos\CSharp\YourNameConsole\bin\Debug\YourNameConsole.pdb
+C:\Users\chubak.b\Source\Repos\CSharp\YourNameConsole\obj\Debug\YourNameConsole.exe
+C:\Users\chubak.b\Source\Repos\CSharp\YourNameConsole\obj\Debug\YourNameConsole.pdb

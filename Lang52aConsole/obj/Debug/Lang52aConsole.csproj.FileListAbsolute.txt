@@ -1,0 +1,5 @@
+C:\Users\chubak.b\documents\visual studio 2013\Projects\Tester\Lang52aConsole\bin\Debug\Lang52aConsole.exe.config
+C:\Users\chubak.b\documents\visual studio 2013\Projects\Tester\Lang52aConsole\bin\Debug\Lang52aConsole.exe
+C:\Users\chubak.b\documents\visual studio 2013\Projects\Tester\Lang52aConsole\bin\Debug\Lang52aConsole.pdb
+C:\Users\chubak.b\documents\visual studio 2013\Projects\Tester\Lang52aConsole\obj\Debug\Lang52aConsole.exe
+C:\Users\chubak.b\documents\visual studio 2013\Projects\Tester\Lang52aConsole\obj\Debug\Lang52aConsole.pdb

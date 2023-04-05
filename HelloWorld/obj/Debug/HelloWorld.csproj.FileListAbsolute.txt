@@ -1,0 +1,15 @@
+c:\users\chubak.b\documents\visual studio 2013\Projects\Tester\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\chubak.b\documents\visual studio 2013\Projects\Tester\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\chubak.b\documents\visual studio 2013\Projects\Tester\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\chubak.b\documents\visual studio 2013\Projects\Tester\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+c:\users\chubak.b\documents\visual studio 2013\Projects\Tester\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+c:\users\chubak.b\documents\visual studio 2013\Projects\Tester\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+c:\users\chubak.b\documents\visual studio 2013\Projects\Tester\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+c:\users\chubak.b\documents\visual studio 2013\Projects\Tester\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\chubak.b\documents\visual studio 2013\Projects\Tester\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\chubak.b\Source\Repos\CSharp\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\chubak.b\Source\Repos\CSharp\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\chubak.b\Source\Repos\CSharp\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\chubak.b\Downloads\Programming 2\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\chubak.b\Downloads\Programming 2\HelloWorld\obj\Debug\HelloWorld.pdb

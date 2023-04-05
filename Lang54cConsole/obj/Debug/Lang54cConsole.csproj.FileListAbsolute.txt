@@ -1,0 +1,5 @@
+C:\Users\chubak.b\Source\Repos\CSharp\Lang54cConsole\bin\Debug\Lang54cConsole.exe.config
+C:\Users\chubak.b\Source\Repos\CSharp\Lang54cConsole\bin\Debug\Lang54cConsole.exe
+C:\Users\chubak.b\Source\Repos\CSharp\Lang54cConsole\bin\Debug\Lang54cConsole.pdb
+C:\Users\chubak.b\Source\Repos\CSharp\Lang54cConsole\obj\Debug\Lang54cConsole.exe
+C:\Users\chubak.b\Source\Repos\CSharp\Lang54cConsole\obj\Debug\Lang54cConsole.pdb

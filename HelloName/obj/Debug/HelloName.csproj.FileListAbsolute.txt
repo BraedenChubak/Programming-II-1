@@ -1,0 +1,6 @@
+c:\users\chubak.b\documents\visual studio 2013\Projects\Tester\HelloName\bin\Debug\HelloName.exe.config
+c:\users\chubak.b\documents\visual studio 2013\Projects\Tester\HelloName\bin\Debug\HelloName.exe
+c:\users\chubak.b\documents\visual studio 2013\Projects\Tester\HelloName\bin\Debug\HelloName.pdb
+c:\users\chubak.b\documents\visual studio 2013\Projects\Tester\HelloName\obj\Debug\HelloName.exe
+c:\users\chubak.b\documents\visual studio 2013\Projects\Tester\HelloName\obj\Debug\HelloName.pdb
+C:\Users\chubak.b\documents\visual studio 2013\Projects\Tester\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
