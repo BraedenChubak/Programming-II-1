@@ -1,0 +1,8 @@
+C:\Users\chubak.b\Downloads\Programming 2\AboutMe\bin\Debug\AboutMe.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\AboutMe\bin\Debug\AboutMe.exe
+C:\Users\chubak.b\Downloads\Programming 2\AboutMe\bin\Debug\AboutMe.pdb
+C:\Users\chubak.b\Downloads\Programming 2\AboutMe\obj\Debug\AboutMe.Form1.resources
+C:\Users\chubak.b\Downloads\Programming 2\AboutMe\obj\Debug\AboutMe.Properties.Resources.resources
+C:\Users\chubak.b\Downloads\Programming 2\AboutMe\obj\Debug\AboutMe.csproj.GenerateResource.Cache
+C:\Users\chubak.b\Downloads\Programming 2\AboutMe\obj\Debug\AboutMe.exe
+C:\Users\chubak.b\Downloads\Programming 2\AboutMe\obj\Debug\AboutMe.pdb
