@@ -1,0 +1,9 @@
+C:\Users\chubak.b\Downloads\Programming 2\Prog88a\bin\Debug\Prog88a.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\Prog88a\bin\Debug\Prog88a.exe
+C:\Users\chubak.b\Downloads\Programming 2\Prog88a\bin\Debug\Prog88a.pdb
+C:\Users\chubak.b\Downloads\Programming 2\Prog88a\obj\Debug\Prog88a.csprojResolveAssemblyReference.cache
+C:\Users\chubak.b\Downloads\Programming 2\Prog88a\obj\Debug\Prog88a.Form1.resources
+C:\Users\chubak.b\Downloads\Programming 2\Prog88a\obj\Debug\Prog88a.Properties.Resources.resources
+C:\Users\chubak.b\Downloads\Programming 2\Prog88a\obj\Debug\Prog88a.csproj.GenerateResource.Cache
+C:\Users\chubak.b\Downloads\Programming 2\Prog88a\obj\Debug\Prog88a.exe
+C:\Users\chubak.b\Downloads\Programming 2\Prog88a\obj\Debug\Prog88a.pdb
