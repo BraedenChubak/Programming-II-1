@@ -1,0 +1,5 @@
+C:\Users\chubak.b\Downloads\Programming 2\LP4-1\bin\Debug\LP4-1.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\LP4-1\bin\Debug\LP4-1.exe
+C:\Users\chubak.b\Downloads\Programming 2\LP4-1\bin\Debug\LP4-1.pdb
+C:\Users\chubak.b\Downloads\Programming 2\LP4-1\obj\Debug\LP4-1.exe
+C:\Users\chubak.b\Downloads\Programming 2\LP4-1\obj\Debug\LP4-1.pdb

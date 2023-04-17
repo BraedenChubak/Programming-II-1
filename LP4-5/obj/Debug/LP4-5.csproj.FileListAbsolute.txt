@@ -1,0 +1,6 @@
+C:\Users\chubak.b\Downloads\Programming 2\LP4-5\bin\Debug\LP4-5.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\LP4-5\bin\Debug\LP4-5.exe
+C:\Users\chubak.b\Downloads\Programming 2\LP4-5\bin\Debug\LP4-5.pdb
+C:\Users\chubak.b\Downloads\Programming 2\LP4-5\obj\Debug\LP4-5.csprojResolveAssemblyReference.cache
+C:\Users\chubak.b\Downloads\Programming 2\LP4-5\obj\Debug\LP4-5.exe
+C:\Users\chubak.b\Downloads\Programming 2\LP4-5\obj\Debug\LP4-5.pdb

@@ -1,0 +1,9 @@
+C:\Users\chubak.b\Downloads\Programming 2\Pg266LargeSmall\bin\Debug\Pg266LargeSmall.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\Pg266LargeSmall\bin\Debug\Pg266LargeSmall.exe
+C:\Users\chubak.b\Downloads\Programming 2\Pg266LargeSmall\bin\Debug\Pg266LargeSmall.pdb
+C:\Users\chubak.b\Downloads\Programming 2\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.csprojResolveAssemblyReference.cache
+C:\Users\chubak.b\Downloads\Programming 2\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.Form1.resources
+C:\Users\chubak.b\Downloads\Programming 2\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.Properties.Resources.resources
+C:\Users\chubak.b\Downloads\Programming 2\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.csproj.GenerateResource.Cache
+C:\Users\chubak.b\Downloads\Programming 2\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.exe
+C:\Users\chubak.b\Downloads\Programming 2\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.pdb
