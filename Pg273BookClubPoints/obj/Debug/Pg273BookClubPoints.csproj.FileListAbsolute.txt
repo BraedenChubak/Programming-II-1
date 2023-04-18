@@ -1,0 +1,9 @@
+C:\Users\chubak.b\Downloads\Programming 2\Pg273BookClubPoints\bin\Debug\Pg273BookClubPoints.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\Pg273BookClubPoints\bin\Debug\Pg273BookClubPoints.exe
+C:\Users\chubak.b\Downloads\Programming 2\Pg273BookClubPoints\bin\Debug\Pg273BookClubPoints.pdb
+C:\Users\chubak.b\Downloads\Programming 2\Pg273BookClubPoints\obj\Debug\Pg273BookClubPoints.csprojResolveAssemblyReference.cache
+C:\Users\chubak.b\Downloads\Programming 2\Pg273BookClubPoints\obj\Debug\Pg273BookClubPoints.Form1.resources
+C:\Users\chubak.b\Downloads\Programming 2\Pg273BookClubPoints\obj\Debug\Pg273BookClubPoints.Properties.Resources.resources
+C:\Users\chubak.b\Downloads\Programming 2\Pg273BookClubPoints\obj\Debug\Pg273BookClubPoints.csproj.GenerateResource.Cache
+C:\Users\chubak.b\Downloads\Programming 2\Pg273BookClubPoints\obj\Debug\Pg273BookClubPoints.exe
+C:\Users\chubak.b\Downloads\Programming 2\Pg273BookClubPoints\obj\Debug\Pg273BookClubPoints.pdb

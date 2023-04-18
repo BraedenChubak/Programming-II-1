@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LP4-1", "LP4-1\LP4-1.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg266LargeSmall", "Pg266LargeSmall\Pg266LargeSmall.csproj", "{2A308A53-D806-40B9-BBC2-25178E1C5ADB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg273BookClubPoints", "Pg273BookClubPoints\Pg273BookClubPoints.csproj", "{94C71A3D-0916-4FE0-A657-CFC340134686}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{2A308A53-D806-40B9-BBC2-25178E1C5ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A308A53-D806-40B9-BBC2-25178E1C5ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A308A53-D806-40B9-BBC2-25178E1C5ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C71A3D-0916-4FE0-A657-CFC340134686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C71A3D-0916-4FE0-A657-CFC340134686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C71A3D-0916-4FE0-A657-CFC340134686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C71A3D-0916-4FE0-A657-CFC340134686}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
