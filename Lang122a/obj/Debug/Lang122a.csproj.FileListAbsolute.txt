@@ -1,0 +1,9 @@
+C:\Users\chubak.b\Downloads\Programming 2\Lang122a\bin\Debug\Lang122a.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\Lang122a\bin\Debug\Lang122a.exe
+C:\Users\chubak.b\Downloads\Programming 2\Lang122a\bin\Debug\Lang122a.pdb
+C:\Users\chubak.b\Downloads\Programming 2\Lang122a\obj\Debug\Lang122a.csprojResolveAssemblyReference.cache
+C:\Users\chubak.b\Downloads\Programming 2\Lang122a\obj\Debug\Lang122a.Form1.resources
+C:\Users\chubak.b\Downloads\Programming 2\Lang122a\obj\Debug\Lang122a.Properties.Resources.resources
+C:\Users\chubak.b\Downloads\Programming 2\Lang122a\obj\Debug\Lang122a.csproj.GenerateResource.Cache
+C:\Users\chubak.b\Downloads\Programming 2\Lang122a\obj\Debug\Lang122a.exe
+C:\Users\chubak.b\Downloads\Programming 2\Lang122a\obj\Debug\Lang122a.pdb

@@ -1,0 +1,8 @@
+C:\Users\chubak.b\Downloads\Programming 2\Pg535CatchMe\bin\Debug\Pg535CatchMe.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\Pg535CatchMe\bin\Debug\Pg535CatchMe.exe
+C:\Users\chubak.b\Downloads\Programming 2\Pg535CatchMe\bin\Debug\Pg535CatchMe.pdb
+C:\Users\chubak.b\Downloads\Programming 2\Pg535CatchMe\obj\Debug\Pg535CatchMe.Form1.resources
+C:\Users\chubak.b\Downloads\Programming 2\Pg535CatchMe\obj\Debug\Pg535CatchMe.Properties.Resources.resources
+C:\Users\chubak.b\Downloads\Programming 2\Pg535CatchMe\obj\Debug\Pg535CatchMe.csproj.GenerateResource.Cache
+C:\Users\chubak.b\Downloads\Programming 2\Pg535CatchMe\obj\Debug\Pg535CatchMe.exe
+C:\Users\chubak.b\Downloads\Programming 2\Pg535CatchMe\obj\Debug\Pg535CatchMe.pdb
