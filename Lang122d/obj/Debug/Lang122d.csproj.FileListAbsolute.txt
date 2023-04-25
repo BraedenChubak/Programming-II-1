@@ -1,0 +1,8 @@
+C:\Users\chubak.b\Downloads\Programming 2\Lang122d\bin\Debug\Lang122d.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\Lang122d\obj\Debug\Lang122d.Form1.resources
+C:\Users\chubak.b\Downloads\Programming 2\Lang122d\obj\Debug\Lang122d.Properties.Resources.resources
+C:\Users\chubak.b\Downloads\Programming 2\Lang122d\obj\Debug\Lang122d.csproj.GenerateResource.Cache
+C:\Users\chubak.b\Downloads\Programming 2\Lang122d\bin\Debug\Lang122d.exe
+C:\Users\chubak.b\Downloads\Programming 2\Lang122d\bin\Debug\Lang122d.pdb
+C:\Users\chubak.b\Downloads\Programming 2\Lang122d\obj\Debug\Lang122d.exe
+C:\Users\chubak.b\Downloads\Programming 2\Lang122d\obj\Debug\Lang122d.pdb

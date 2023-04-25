@@ -34,18 +34,20 @@
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.Color.Turquoise;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button1.Location = new System.Drawing.Point(175, 190);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(107, 31);
             this.button1.TabIndex = 0;
             this.button1.Text = "Click me!";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             this.button1.MouseEnter += new System.EventHandler(this.button1_MouseEnter);
             // 
             // label1
             // 
-            this.label1.BackColor = System.Drawing.SystemColors.Control;
+            this.label1.BackColor = System.Drawing.Color.LightSeaGreen;
             this.label1.Location = new System.Drawing.Point(12, 413);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(460, 39);
@@ -57,6 +59,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.LightSeaGreen;
             this.ClientSize = new System.Drawing.Size(484, 461);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);

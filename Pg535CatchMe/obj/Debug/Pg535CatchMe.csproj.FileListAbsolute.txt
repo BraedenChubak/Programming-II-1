@@ -6,3 +6,4 @@ C:\Users\chubak.b\Downloads\Programming 2\Pg535CatchMe\obj\Debug\Pg535CatchMe.Pr
 C:\Users\chubak.b\Downloads\Programming 2\Pg535CatchMe\obj\Debug\Pg535CatchMe.csproj.GenerateResource.Cache
 C:\Users\chubak.b\Downloads\Programming 2\Pg535CatchMe\obj\Debug\Pg535CatchMe.exe
 C:\Users\chubak.b\Downloads\Programming 2\Pg535CatchMe\obj\Debug\Pg535CatchMe.pdb
+C:\Users\chubak.b\Downloads\Programming 2\Pg535CatchMe\obj\Debug\Pg535CatchMe.csprojResolveAssemblyReference.cache

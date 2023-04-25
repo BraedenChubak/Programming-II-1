@@ -1,0 +1,8 @@
+C:\Users\chubak.b\Downloads\Programming 2\Lang310a\bin\Debug\Lang310a.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\Lang310a\bin\Debug\Lang310a.exe
+C:\Users\chubak.b\Downloads\Programming 2\Lang310a\bin\Debug\Lang310a.pdb
+C:\Users\chubak.b\Downloads\Programming 2\Lang310a\obj\Debug\Lang310a.Form1.resources
+C:\Users\chubak.b\Downloads\Programming 2\Lang310a\obj\Debug\Lang310a.Properties.Resources.resources
+C:\Users\chubak.b\Downloads\Programming 2\Lang310a\obj\Debug\Lang310a.csproj.GenerateResource.Cache
+C:\Users\chubak.b\Downloads\Programming 2\Lang310a\obj\Debug\Lang310a.exe
+C:\Users\chubak.b\Downloads\Programming 2\Lang310a\obj\Debug\Lang310a.pdb

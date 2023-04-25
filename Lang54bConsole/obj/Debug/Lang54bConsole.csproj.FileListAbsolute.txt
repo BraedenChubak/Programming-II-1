@@ -3,3 +3,8 @@ C:\Users\chubak.b\documents\visual studio 2013\Projects\Tester\Lang54bConsole\bi
 C:\Users\chubak.b\documents\visual studio 2013\Projects\Tester\Lang54bConsole\bin\Debug\Lang54bConsole.pdb
 C:\Users\chubak.b\documents\visual studio 2013\Projects\Tester\Lang54bConsole\obj\Debug\Lang54bConsole.exe
 C:\Users\chubak.b\documents\visual studio 2013\Projects\Tester\Lang54bConsole\obj\Debug\Lang54bConsole.pdb
+C:\Users\chubak.b\Downloads\Programming 2\Lang54bConsole\bin\Debug\Lang54bConsole.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\Lang54bConsole\bin\Debug\Lang54bConsole.exe
+C:\Users\chubak.b\Downloads\Programming 2\Lang54bConsole\bin\Debug\Lang54bConsole.pdb
+C:\Users\chubak.b\Downloads\Programming 2\Lang54bConsole\obj\Debug\Lang54bConsole.exe
+C:\Users\chubak.b\Downloads\Programming 2\Lang54bConsole\obj\Debug\Lang54bConsole.pdb
