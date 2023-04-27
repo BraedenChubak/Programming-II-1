@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Microsoft.VisualBasic;
 
 namespace Lang347
 {
@@ -24,18 +25,14 @@ namespace Lang347
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int max = int.Parse(textBox1.Text);
+            string num = Interaction.InputBox("Enter a positive integer", "Input needed");
+            int max = int.Parse(num);
             int total = 0;
             for (int lcv = 1; lcv <= max; lcv++)
             {
                 total += lcv;
             }
             MessageBox.Show("The sum of numbers 1 through " + max + " equals " + total);
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            textBox1.Text = "";
         }
 
         private void button3_Click(object sender, EventArgs e)

@@ -1,0 +1,9 @@
+C:\Users\chubak.b\Downloads\Programming 2\Lang347\bin\Debug\Lang347.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\Lang347\obj\Debug\Lang347.exe
+C:\Users\chubak.b\Downloads\Programming 2\Lang347\obj\Debug\Lang347.pdb
+C:\Users\chubak.b\Downloads\Programming 2\Lang347\bin\Debug\Lang347.exe
+C:\Users\chubak.b\Downloads\Programming 2\Lang347\bin\Debug\Lang347.pdb
+C:\Users\chubak.b\Downloads\Programming 2\Lang347\obj\Debug\Pg347Sum.csprojResolveAssemblyReference.cache
+C:\Users\chubak.b\Downloads\Programming 2\Lang347\obj\Debug\Lang347.Form1.resources
+C:\Users\chubak.b\Downloads\Programming 2\Lang347\obj\Debug\Lang347.Properties.Resources.resources
+C:\Users\chubak.b\Downloads\Programming 2\Lang347\obj\Debug\Pg347Sum.csproj.GenerateResource.Cache

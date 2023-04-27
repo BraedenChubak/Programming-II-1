@@ -47,7 +47,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lang122d", "Lang122d\Lang12
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lang310a", "Lang310a\Lang310a.csproj", "{FA6D0489-66D3-4A62-BF6D-947C035A5EAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lang347", "Lang347\Lang347.csproj", "{1219C553-50F7-42B1-8290-10149A2B77D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg347Sum", "Lang347\Pg347Sum.csproj", "{1219C553-50F7-42B1-8290-10149A2B77D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
