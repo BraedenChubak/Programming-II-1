@@ -1,0 +1,11 @@
+C:\Users\chubak.b\Downloads\Programming 2\Pg435TicketSales\bin\Debug\Pg435TicketSales.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\Pg435TicketSales\bin\Debug\Pg435TicketSales.exe
+C:\Users\chubak.b\Downloads\Programming 2\Pg435TicketSales\bin\Debug\Pg435TicketSales.pdb
+C:\Users\chubak.b\Downloads\Programming 2\Pg435TicketSales\obj\Debug\Pg435TicketSales.csprojResolveAssemblyReference.cache
+C:\Users\chubak.b\Downloads\Programming 2\Pg435TicketSales\obj\Debug\Pg435TicketSales.Form1.resources
+C:\Users\chubak.b\Downloads\Programming 2\Pg435TicketSales\obj\Debug\Pg435TicketSales.GeneralForm.resources
+C:\Users\chubak.b\Downloads\Programming 2\Pg435TicketSales\obj\Debug\Pg435TicketSales.Properties.Resources.resources
+C:\Users\chubak.b\Downloads\Programming 2\Pg435TicketSales\obj\Debug\Pg435TicketSales.StudentForm.resources
+C:\Users\chubak.b\Downloads\Programming 2\Pg435TicketSales\obj\Debug\Pg435TicketSales.csproj.GenerateResource.Cache
+C:\Users\chubak.b\Downloads\Programming 2\Pg435TicketSales\obj\Debug\Pg435TicketSales.exe
+C:\Users\chubak.b\Downloads\Programming 2\Pg435TicketSales\obj\Debug\Pg435TicketSales.pdb
