@@ -1,0 +1,9 @@
+C:\Users\chubak.b\Downloads\Programming 2\Pg334LoanCalc\bin\Debug\Pg334LoanCalc.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\Pg334LoanCalc\bin\Debug\Pg334LoanCalc.exe
+C:\Users\chubak.b\Downloads\Programming 2\Pg334LoanCalc\bin\Debug\Pg334LoanCalc.pdb
+C:\Users\chubak.b\Downloads\Programming 2\Pg334LoanCalc\obj\Debug\Pg334LoanCalc.csprojResolveAssemblyReference.cache
+C:\Users\chubak.b\Downloads\Programming 2\Pg334LoanCalc\obj\Debug\Pg334LoanCalc.Form1.resources
+C:\Users\chubak.b\Downloads\Programming 2\Pg334LoanCalc\obj\Debug\Pg334LoanCalc.Properties.Resources.resources
+C:\Users\chubak.b\Downloads\Programming 2\Pg334LoanCalc\obj\Debug\Pg334LoanCalc.csproj.GenerateResource.Cache
+C:\Users\chubak.b\Downloads\Programming 2\Pg334LoanCalc\obj\Debug\Pg334LoanCalc.exe
+C:\Users\chubak.b\Downloads\Programming 2\Pg334LoanCalc\obj\Debug\Pg334LoanCalc.pdb
