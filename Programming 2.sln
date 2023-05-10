@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrInterview8", "StrIntervi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strinterview18", "Strinterview18\Strinterview18.csproj", "{D4898678-F963-448B-A015-1ECA36B8973F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg514SalesData", "Pg514SalesData\Pg514SalesData.csproj", "{56D4CF1C-1A01-4003-99C1-8E056D5CCBDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{D4898678-F963-448B-A015-1ECA36B8973F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4898678-F963-448B-A015-1ECA36B8973F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4898678-F963-448B-A015-1ECA36B8973F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D4CF1C-1A01-4003-99C1-8E056D5CCBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D4CF1C-1A01-4003-99C1-8E056D5CCBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D4CF1C-1A01-4003-99C1-8E056D5CCBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D4CF1C-1A01-4003-99C1-8E056D5CCBDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
