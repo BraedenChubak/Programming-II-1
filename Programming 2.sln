@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrInterview16", "StrInterv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrInterview8", "StrInterview8\StrInterview8.csproj", "{49573882-11D4-4176-A203-6FF7C1068461}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strinterview18", "Strinterview18\Strinterview18.csproj", "{D4898678-F963-448B-A015-1ECA36B8973F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{49573882-11D4-4176-A203-6FF7C1068461}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49573882-11D4-4176-A203-6FF7C1068461}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49573882-11D4-4176-A203-6FF7C1068461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4898678-F963-448B-A015-1ECA36B8973F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4898678-F963-448B-A015-1ECA36B8973F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4898678-F963-448B-A015-1ECA36B8973F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4898678-F963-448B-A015-1ECA36B8973F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

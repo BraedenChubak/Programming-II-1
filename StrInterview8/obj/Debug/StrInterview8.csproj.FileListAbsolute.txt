@@ -1,0 +1,6 @@
+C:\Users\chubak.b\Downloads\Programming 2\StrInterview8\bin\Debug\StrInterview8.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\StrInterview8\obj\Debug\StrInterview8.csprojResolveAssemblyReference.cache
+C:\Users\chubak.b\Downloads\Programming 2\StrInterview8\bin\Debug\StrInterview8.exe
+C:\Users\chubak.b\Downloads\Programming 2\StrInterview8\bin\Debug\StrInterview8.pdb
+C:\Users\chubak.b\Downloads\Programming 2\StrInterview8\obj\Debug\StrInterview8.exe
+C:\Users\chubak.b\Downloads\Programming 2\StrInterview8\obj\Debug\StrInterview8.pdb

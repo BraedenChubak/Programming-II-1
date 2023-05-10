@@ -1,0 +1,5 @@
+C:\Users\chubak.b\Downloads\Programming 2\Strinterview18\bin\Debug\Strinterview18.exe.config
+C:\Users\chubak.b\Downloads\Programming 2\Strinterview18\bin\Debug\Strinterview18.exe
+C:\Users\chubak.b\Downloads\Programming 2\Strinterview18\bin\Debug\Strinterview18.pdb
+C:\Users\chubak.b\Downloads\Programming 2\Strinterview18\obj\Debug\Strinterview18.exe
+C:\Users\chubak.b\Downloads\Programming 2\Strinterview18\obj\Debug\Strinterview18.pdb

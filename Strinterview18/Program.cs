@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StrInterview8
+namespace Strinterview18
 {
     class Program
     {
@@ -15,21 +15,24 @@ namespace StrInterview8
             Console.Write("Enter a letter to search for: ");
             string strletter = Console.ReadLine();
             char letter = strletter[0];
-            int counter = CharCounter(text, letter);
-            Console.WriteLine(text + " contains the letter " + letter + " " + counter + " times.");
+            string final = CharRemove(text, letter);
+            Console.WriteLine("Your new string is: " + final);
             Console.ReadLine();
 
         }
 
-        static int CharCounter(string word, char letter)
+        static string CharRemove(string word, char letter)
         {
-            int count = 0;
+            string final = "";
             for (int lcv = 0; lcv < word.Length; lcv++)
             {
-                if (word[lcv] == letter)
-                    count += 1;
+                if (word[lcv] != letter)
+                {
+                    final += word[lcv];
+                }
+                    
             }
-            return count;
+            return final;
         }
     }
 }
